@@ -22,6 +22,7 @@ projetos | versão da linguagem
 projetos | Versão
 ---- | ----
 [This repository represents my studies in Go](https://github.com/JessicaNathany/go-studies) | 1.18
+[Various examples of tests I do on a daily basis before implementing golang.](https://github.com/jeffotoni/goexample) | 
 
 ## Intermediário
 
