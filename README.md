@@ -12,7 +12,7 @@ Por exemplo:
 ```
 ## iniciante
 
-projetos | versão do framework
+projetos | versão da linguagem
 ---- | ----
 [nome do meu projeto](link para o meu projeto) | 2.2, 5 ou 6
 ```
@@ -21,20 +21,18 @@ projetos | versão do framework
 
 projetos | Versão
 ---- | ----
-[Criação uma API básica usando .Net 6 e Entity Framework usando VSCode](https://github.com/JessicaNathany/api-core) | 6
-[Workshop - ASP.NET CORE para Iniciantes](https://github.com/glaucia86/workshop-net-core-iniciantes) | 2.0
+[This repository represents my studies in Go](https://github.com/JessicaNathany/go-studies) | 1.18
 
 ## Intermediário
 
 projetos | Versão
 ---- | ----
-[Criação uma API básica usando .Net 6 e Entity Framework usando VSCode](https://github.com/JessicaNathany/api-core) | 6
-[SSE (Server Sent Events) API que nos permite "ficar pendurado" em um server Http recebendo dados continuamente](https://github.com/angelobelchior/MyCrypto-SSE) | 6
+[nome do projeto](link do projeto) | 1.18
 
 
 ## Avançado
 
 projetos | Versão
 ---- | ----
-[API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente](https://github.com/JessicaNathany/api-fanfareInvest) | 6
+[nome do projeto](link do projeto) | 1.18
 
