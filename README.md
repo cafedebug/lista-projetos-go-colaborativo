@@ -1,6 +1,6 @@
 # Projetos Go colaborativo <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 
-Este é um repositório com listas de projetos em Go colaborativa, para que outras pessoas possam usar como base de aprendizado e compartilhar conhecimento.
+Este é um repositório com listas de projetos colaborativa em Go, para que outras pessoas possam usar como base de aprendizado e compartilhar conhecimento.
 
 
 ## Como funciona?
@@ -22,6 +22,7 @@ projetos | versão da linguagem
 projetos | Versão
 ---- | ----
 [This repository represents my studies in Go](https://github.com/JessicaNathany/go-studies) | 1.18
+[Various examples of tests I do on a daily basis before implementing golang.](https://github.com/jeffotoni/goexample) | 
 
 ## Intermediário
 
