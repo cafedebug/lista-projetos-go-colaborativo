@@ -12,27 +12,27 @@ Por exemplo:
 ```
 ## iniciante
 
-projetos 
+projetos | versão da linguagem
 ---- | ----
-[nome do meu projeto](link para o meu projeto) 
+[nome do meu projeto](link para o meu projeto) | 2.2, 5 ou 6
 ```
 
 ## Iniciante
 
-projetos 
+projetos | Versão
 ---- | ----
-[nome do projeto](link do projeto) 
+[This repository represents my studies in Go](https://github.com/JessicaNathany/go-studies) | 1.18
 
 ## Intermediário
 
-projetos 
+projetos | Versão
 ---- | ----
-[nome do projeto](link do projeto) 
+[nome do projeto](link do projeto) | 1.18
 
 
 ## Avançado
 
-projetos
+projetos | Versão
 ---- | ----
-[nome do projeto](link do projeto) 
+[nome do projeto](link do projeto) | 1.18
 
