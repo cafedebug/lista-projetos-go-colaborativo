@@ -21,7 +21,7 @@ projetos
 
 projetos 
 ---- | ----
-[nome do projeto](link do projeto) 
+[This repository represents my studies in Go](https://github.com/JessicaNathany/go-studies) 
 
 ## Intermediário
 
