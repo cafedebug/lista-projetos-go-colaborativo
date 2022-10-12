@@ -22,7 +22,8 @@ projetos | versão da linguagem
 projetos | Versão
 ---- | ----
 [This repository represents my studies in Go](https://github.com/JessicaNathany/go-studies) | 1.18
-[Various examples of tests I do on a daily basis before implementing golang.](https://github.com/jeffotoni/goexample) | 
+[Various examples of tests I do on a daily basis before implementing golang.](https://github.com/jeffotoni/goexample) |
+[Application for Street Fair Management, to simulate the dynamics of CRUD](https://github.com/jeffersonto/feira-api) | 1.17
 
 ## Intermediário
 
