@@ -24,12 +24,18 @@ projetos | Versão
 [This repository represents my studies in Go](https://github.com/JessicaNathany/go-studies) | 1.18
 [Various examples of tests I do on a daily basis before implementing golang.](https://github.com/jeffotoni/goexample) |
 [Application for Street Fair Management, to simulate the dynamics of CRUD](https://github.com/jeffersonto/feira-api) | 1.17
+[Teste otimizando tamanho em memória de structs](https://github.com/viniciusgabrielfo/go-struct-optimization-test) | 1.17
+
 
 ## Intermediário
 
 projetos | Versão
 ---- | ----
+
 [Code City metaphor for visualizing Go source code in 3D](https://github.com/rodrigo-brito/gocity) | 1.17
+=======
+[A Golang browser based chat](https://github.com/viniciusgabrielfo/golang-browser-based-chat) | 1.18
+
 
 
 ## Avançado
