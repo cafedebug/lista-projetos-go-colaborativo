@@ -25,6 +25,7 @@ projetos | Versão
 [Various examples of tests I do on a daily basis before implementing golang.](https://github.com/jeffotoni/goexample) |
 [Application for Street Fair Management, to simulate the dynamics of CRUD](https://github.com/jeffersonto/feira-api) | 1.17
 [Teste otimizando tamanho em memória de structs](https://github.com/viniciusgabrielfo/go-struct-optimization-test) | 1.17
+[Mini command line project that searches for ips and servers](https://github.com/eric-vantunes/project-ip) | 1.16
 
 
 ## Intermediário
